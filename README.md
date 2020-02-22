@@ -1,4 +1,8 @@
-# TAPE MARK 1
+# RUSTY000'S COMMENTS: 
+
+This is a fork of Fanfani's Python reconstruction of Nanni Balestrini's "TAPE MARK 1." All I did was translate Balestrini's Italian lines into English so English-only speakers could fully enjoy the program too. 
+
+# FANFANI'S ORIGINAL NOTES: TAPE MARK 1
 
 Python reconstruction of 1961 electronic poem "TAPE MARK 1" by Nanni Balestrini
 
